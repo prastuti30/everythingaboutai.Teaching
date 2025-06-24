@@ -1,0 +1,7 @@
+For this assignment, I created an engaging and educational 17 minute video titled “Unlocking the World of Generative AI”, specifically designed for beginners and students in the field of computer science and AI. The video was created using InVideo, incorporating a mix of stock images, animated graphics, and video footage to enhance clarity and visual appeal.
+
+To simplify complex concepts like GANs (Generative Adversarial Networks) and VAEs (Variational Autoencoders), I used real-life analogies (e.g., “teaching a robot like a puppy”), clear visual diagrams, and step-by-step explanations. The structure follows an interactive, storytelling approach—guiding viewers from the basics of machine learning through to advanced generative models and their applications in art, gaming, spam filtering, and voice assistants.
+
+The visuals were carefully chosen to support understanding, while the voice-over narration was designed to maintain a conversational, easy-to-follow tone. The outline includes several segments such as "The Big Data Buffet" and "Getting Smarter Every Day" to keep the learners engaged throughout.
+
+This video aims to demystify Generative AI, inspire curiosity, and lay a strong conceptual foundation for further exploration. It meets all the core requirements—simplification, visual communication, accuracy, and engaging delivery—using modern video editing tools and multimedia storytelling.
